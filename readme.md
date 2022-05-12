@@ -1,5 +1,11 @@
 ## Welcome to my Github page 👋 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 I am **Haolin Jia**, a self-motivated passionate research engineer working in **Google AI** <a href="https://ai.google/"><img src="./icon/google.svg" alt="google" height="15px"/> <img src="./icon/googleai.svg" alt="googleai" height="15px"/></a> at Googleplex Mountain View, CA. 
 
 - 🏷️ Computer Vision / Machine Learning / Research / Engineering  
@@ -28,12 +34,6 @@ I am **Haolin Jia**, a self-motivated passionate research engineer working in **
 
 | ![Haolin's github stats](https://github-readme-stats.vercel.app/api?username=harrypotterrrr&count_private=true&show_icons=true&hide_border=true) | ![Haolin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harrypotterrrr&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook,systemverilog)|
 | ------------- | ------------- |
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 ### ✨ Latest Posts
 
