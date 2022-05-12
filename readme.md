@@ -1,12 +1,12 @@
 ## Welcome to my Github page 👋 
 
-I am Haolin Jia, a self-motivated passionate research engineer working in Google AI <a href="https://ai.google/"><img src="./icon/google.svg" alt="google" height="15px"/> <img src="./icon/googleai.svg" alt="googleai" height="15px"/></a> at Googleplex Mountain View, CA. 
+I am **Haolin Jia**, a self-motivated passionate research engineer working in **Google AI** <a href="https://ai.google/"><img src="./icon/google.svg" alt="google" height="15px"/> <img src="./icon/googleai.svg" alt="googleai" height="15px"/></a> at Googleplex Mountain View, CA. 
 
-🏷️ Computer Vision / Machine Learning / Research / Engineering  
-🔭 Currently reading papers daily to enrich myself and keep pace with the  advanced technique.  
-🌱 Currently learning [Jax](https://github.com/google/jax), advanced cpp/python.  
-🏫 Got my CS M.S. from New York University and CS B.A. degree from Tongji University.  
-💻 More about [me](harrypotterrrr.github.io).
+- 🏷️ Computer Vision / Machine Learning / Research / Engineering  
+- 🔭 Currently reading papers daily to enrich myself and keep pace with the  advanced technique.  
+- 🌱 Currently learning [Jax](https://github.com/google/jax), advanced cpp/python.  
+- 🏫 Got my CS M.S. from **New York University** and CS B.A. degree from **Tongji University**.  
+- 💻 More about [me](harrypotterrrr.github.io).
 
 ### 🔨 Languages and Tools:
 
@@ -29,6 +29,11 @@ I am Haolin Jia, a self-motivated passionate research engineer working in Google
 | ![Haolin's github stats](https://github-readme-stats.vercel.app/api?username=harrypotterrrr&count_private=true&show_icons=true&hide_border=true) | ![Haolin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harrypotterrrr&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook,systemverilog)|
 | ------------- | ------------- |
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 ### ✨ Latest Posts
 
@@ -44,7 +49,7 @@ I am Haolin Jia, a self-motivated passionate research engineer working in Google
 ### 🔗 Contact
 
 <a href="https://harrypotterrrr.github.io" target="blank">
-  <img align="center" alt="Email" width="30" src="./icon/social/homepage.svg"/>
+  <img align="center" alt="Email" width="30" width="40" src="./icon/social/homepage.svg"/>
 </a>
 &nbsp;
 <a href="mailto:jiahaolin19971119@gmail.com" target="blank">
@@ -52,10 +57,10 @@ I am Haolin Jia, a self-motivated passionate research engineer working in Google
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/haolin-jia-7b4b49173/" target="blank">
-  <img align="center" alt="LinkedIn" width="30" src="./icon/social/linkedin.svg"/>
+  <img align="center" alt="LinkedIn" width="30" width="40" src="./icon/social/linkedin.svg"/>
 </a>
 &nbsp;
 <a href="https://twitter.com/Harrypotterrrr7" target="blank">
-  <img align="center" alt="Twitter" width="30" src="./icon/social/twitter.svg"/>
+  <img align="center" alt="Twitter" width="30" width="40" src="./icon/social/twitter.svg"/>
 </a>
 
