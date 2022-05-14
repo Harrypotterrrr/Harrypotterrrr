@@ -49,14 +49,15 @@ I am **Haolin Jia**, a self-motivated passionate research engineer working in **
 
 ### ✨ Latest Posts
 
-- 🔥 [The Notes of Computer Graphics Ⅹ](https://harrypotterrrr.github.io/2020/12/20/cg-10.html)  
-*Material, Microfacet Theory, Isotropic Material, Anisotropic Material*
+- 🔥 [Advanced Thoery and Problems of GAN](https://harrypotterrrr.github.io/2022/02/11/gan-3.html)  
+*Drawback of the general framework of GAN, Wasserstein Distance, WGAN-GP*
 
-- 🔥 [The Notes of Computer Graphics Ⅸ](https://harrypotterrrr.github.io/2020/12/03/cg-9.html)  
+- 🔥 [Basic Theory of Generative Model](https://harrypotterrrr.github.io/2022/01/20/gan-1)  
+*Basic thoery of GAN, Equation derivations, Comparison to VAE*
+
+- [The Notes of Computer Graphics Ⅸ](https://harrypotterrrr.github.io/2020/12/03/cg-9.html)  
 *Advanced Ray Tracing, Radiometry, BRDF, Path Tracing*
 
-- [The Notes of Computer Graphics Ⅶ](https://harrypotterrrr.github.io/2020/11/19/cg-7.html)  
-*Geometry, Implicit & Explicit Geometry, Curve, Surface, Subdivision, Mesh Simplification*
 
 ### 🔗 Contact
 
