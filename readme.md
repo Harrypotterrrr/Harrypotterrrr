@@ -4,12 +4,14 @@ I am **Haolin Jia**, a self-motivated passionate research engineer working in **
 
 - 🏷️ **Computer Vision** / Computer Graphics / Machine Learning / Research / Engineering  
 - 🔭 Currently reading papers daily to enrich myself and keep pace with the  advanced technique.  
-- 🌱 Currently learning [Jax](https://github.com/google/jax), advanced cpp/python.  
 - 🏫 Got my CS M.S. from **New York University** and CS B.A. degree from **Tongji University**.  
 - 💻 More about [me](harrypotterrrr.github.io).
 
 ### 🔨 Languages and Tools:
 
+<a href="https://docs.jax.dev/en/latest/quickstart.html" target="_blank"> 
+    <img align="center" alt="Jax" height="30" src="https://docs.jax.dev/en/latest/_static/jax_logo_250px.png"/> 
+</a> 
 <a href="https://www.tensorflow.org" target="_blank"> 
     <img align="center" alt="Tensorflow" height="40" src="./icon/tools/tensorflow.svg"/> 
 </a> 
